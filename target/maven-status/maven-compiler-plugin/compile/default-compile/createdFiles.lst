@@ -1,0 +1,12 @@
+cn\ccb\framework\beans\context\support\AbstractApplicationContext.class
+cn\ccb\framework\beans\factory\xml\XmlBeanDefinitionReader.class
+cn\ccb\framework\beans\factory\support\BeanDefinitionRegistry.class
+cn\ccb\framework\utils\StringUtils.class
+cn\ccb\framework\beans\BeanDefinition.class
+cn\ccb\framework\beans\context\ApplicationContext.class
+cn\ccb\framework\beans\context\support\ClassPathXmlApplicationContext.class
+cn\ccb\framework\beans\factory\support\SimpleBeanDefinitionRegistry.class
+cn\ccb\framework\beans\factory\BeanFactory.class
+cn\ccb\framework\beans\factory\support\BeanDefinitionReader.class
+cn\ccb\framework\beans\MutablePropertyValues.class
+cn\ccb\framework\beans\PropertyValue.class
